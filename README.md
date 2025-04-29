@@ -54,3 +54,5 @@ This repo shows a practical fine-tuning workflow using Hinglish dialogue. Even t
 Using the `gpt-3.5-turbo` model would be the most efficient choice for this task, saving time and resources that would otherwise be spent training the model from scratch for Hinglish responses. 
 
 If you're curious, you can check the notebook where I experimented with GPT-2 for Hinglish testing. (https://colab.research.google.com/drive/1dg5-sdWrovFJSJv3gr9JY_NjlBji0JDP?usp=sharing)](#)
+
+Or we could go for Google's Gemini 2.0 Flash which also has state-of-the-art accuracy and efficiency for such tasks, testing could be done and then the deployed model would be charged in a simlar price range.
