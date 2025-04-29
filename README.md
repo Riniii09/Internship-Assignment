@@ -4,8 +4,8 @@ LLM Fine-Tuning Mini–Project – Hinglish Voice-AI
 ## Setup Instructions
 
 1. Clone this repo.
-   git clone https://github.com/Riniii09/Internship-Assignment.git
-   cd Internship-Assignment  
+   - git clone https://github.com/Riniii09/Internship-Assignment.git
+   - cd Internship-Assignment  
 2. Add the OpenAI API key `YOUR_API_KEY` to your environment.
 3. Upload the `dataset.jsonl`.
 4. Run `fine_tune.py` to initiate fine-tuning (requires paid access).
